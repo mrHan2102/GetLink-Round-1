@@ -4,7 +4,7 @@ This repository contains three tasks for frontend development, each organized in
 
 ## Task 1: Three Solutions for Sum to n
 - Implement three different approaches to solve the problem of summing numbers up to `n`.
-- 
+
 ## Task 2: Currency Converter App
 - Build a currency conversion application using React Vite and TypeScript.
 
